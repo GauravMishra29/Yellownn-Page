@@ -1,0 +1,79 @@
+/* CSS Document */
+.table {
+	font-size: 1em;
+	font-family:"Courier New", Courier, mono;
+	font-style:inherit;
+	background-color:#99FFFF;
+}
+.lite{
+color:#FFFFFF;
+}
+.small{
+font-size:12px;
+text-align:center;
+background-color:#CCCCCC;
+}
+.btn{
+background-image: url(../../site/binary/leftlink.png);
+border-color:#00CCFF;
+font-family:"Courier New", Courier, mono;
+}
+a:link:visited{
+color=#f99990;
+}
+a:link:active{
+color=#000000;
+}
+a:link{
+color:#C0Cfff;
+}
+.headertext{
+color:#CC0000;
+font-size:large;
+}
+.linkclass a:visited{
+color:#FF3300;
+font-size:14px;
+display: block;
+}
+.mainLink a:link
+{
+color:#003300;
+font-family:Verdana;
+font-size:12px;
+text-decoration:underline;
+}
+.mainLink a:visited
+{color:#FFFFFF;
+font-size:13px;
+font-family:Verdana;
+text-decoration:underline;
+}
+.mainLink a:hover
+{
+color:#00FF00;
+font-family:Verdana;
+font-size:12px;
+text-decoration:blink;
+}
+.style1Copy {
+	color:#663399;
+	font-size:18px ;
+}
+.xtra_menu_Links a:link,.xtra_menu_Links a:visited
+{   font-size:14px;
+	display: block;
+	background-image: url(../../site/binary/leftlink.png);
+	
+	font-weight: bold;
+	padding: 3px 10px;
+	color: #21536A;
+	text-decoration:none;
+}
+.xtra_menu_Links a:hover
+{   font-size:14px;
+	background-color: #DDEEFF;
+	background-image: none;
+	font-weight: bold;
+	text-decoration:underline;	
+}

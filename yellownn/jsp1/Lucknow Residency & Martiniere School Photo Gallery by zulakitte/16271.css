@@ -1,0 +1,87 @@
+DIV {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+BODY {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+TD {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+TH {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+TR {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+TABLE {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+FONT {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+INPUT {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+LI {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+UL {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+FORM {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+BLOCKQUOTE {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+P {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+B {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+I {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+H1 {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+H2 {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+H3 {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+H4 {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+H5 {
+	BACKGROUND: black; COLOR: white; FONT-FAMILY: Comic Sans MS,arial,helvetica,sans-serif
+}
+A:link {
+	COLOR: yellow
+}
+A:active {
+	COLOR: #d5ae83
+}
+A:visited {
+	COLOR: orange
+}
+A:hover {
+	COLOR: #5b80b7
+}
+IMG.thumbnail {
+	BORDER-RIGHT: #fff8dc 1pt solid; BORDER-TOP: #fff8dc 1pt solid; BORDER-LEFT: #fff8dc 1pt solid; BORDER-BOTTOM: #fff8dc 1pt solid
+}
+IMG.display {
+	BORDER-RIGHT: #ffffff 3pt solid; BORDER-TOP: #ffffff 3pt solid; BORDER-LEFT: #ffffff 3pt solid; BORDER-BOTTOM: #ffffff 3pt solid
+}
+BODY {
+	MARGIN-TOP: 0px; TOP: 0px
+}
+BODY TABLE A IMG {
+	DISPLAY: inline
+}
+HR {
+	POSITION: relative
+}
